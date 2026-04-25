@@ -7,7 +7,7 @@ Hostel Laundry AI is a web-based optimization platform designed to solve the com
 By combining State Management with Predictive Analytics, the app helps students identify the best time to do their laundry, reducing wait times and improving hostel resource management.
 🚀 Live Demo
 
-Check out the live application here:
+Check out the live application here:https://hostel-laundary-ai-cn8gdyigdrjdbxxsyp242d.streamlit.app/
 
 👉 Hostel Laundry AI Live
 ✨ Key Features
